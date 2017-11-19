@@ -1,0 +1,7 @@
+C:\Users\KATERINE\Desktop\slnConexionBD\libConexionBD\obj\Debug\libConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\KATERINE\Desktop\slnConexionBD\libConexionBD\bin\Debug\libConexionBD.dll
+C:\Users\KATERINE\Desktop\slnConexionBD\libConexionBD\bin\Debug\libConexionBD.pdb
+C:\Users\KATERINE\Desktop\slnConexionBD\libConexionBD\bin\Debug\libParametros.dll
+C:\Users\KATERINE\Desktop\slnConexionBD\libConexionBD\bin\Debug\libParametros.pdb
+C:\Users\KATERINE\Desktop\slnConexionBD\libConexionBD\obj\Debug\libConexionBD.dll
+C:\Users\KATERINE\Desktop\slnConexionBD\libConexionBD\obj\Debug\libConexionBD.pdb

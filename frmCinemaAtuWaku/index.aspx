@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" type="text/css" >
     <link rel="stylesheet" href="css/animate.min.css" type="text/css" >
     <link href="css/light-bootstrap-dashboard.css" rel="stylesheet"/>
+    <link href="css/custom-styles.css" rel="stylesheet"/>
     <title></title>
 </head>
 <body>
@@ -15,16 +16,36 @@
             <div class="sidebar" data-color="red" data-image="images/fondo.jpg">
     	        <div class="sidebar-wrapper">
                     <div class="logo">
-                        <a href="http://www.creative-tim.com" class="simple-text">
-                            Cinemas Atu Waku
+                        <a href="#" class="simple-text">
+                            <img class="img-fluid" src="images/logo.png" />
                         </a>
                     </div>
 
-                    <ul class="nav">
+                    <ul class="nav menu">
                         <li class="active">
-                            <a href="index.html">
-                                <i class="pe-7s-graph"></i>
-                                <p>Vendedor</p>
+                            <a href="#">
+                                <p class="text-center">Vendedor</p>
+                            </a>
+                            <ul class="nav submenu">
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <p class="text-center">Vendedor</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <p class="text-center">Vendedor</p>
                             </a>
                         </li>
                     </ul>
@@ -42,8 +63,8 @@
                             </button>
                             <a class="navbar-brand" href="#">Bienvenido al Sistema</a>
                         </div>
-                        <div class="collapse navbar-collapse">
-                            <ul class="nav navbar-nav navbar-right">
+                        <div class="">
+                            <ul class="nav navbar-nav navbar-right float-right">
                                 <li class="nav-item">
                                    <a href="">
                                        <p>Cuenta | Alejandro</p>
@@ -64,18 +85,10 @@
                 <div class="content">
                     <div class="container-fluid">
                         <div class="row">
-                            <div class="col-md-12">
-                                <h2 class="text-center">Hola Que Deseas Hacer!!</h2>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6 text-center">
-                                <a href="" class="btn btn-info">Registrar Venta</a>
-                                <a href="" class="btn btn-succes">Registrar Usuario</a>
-                            </div>
-                            <div class="col-md-6 text-center">
-                                <a href="" class="btn btn-info">Productos</a>
-                                <a href="" class="btn btn-info">Registrar Venta</a>
+                            <div class="col-md-5 offset-7">
+                                <div class="content-bg">
+                                    <h2 class="text-center"><strong>HOLA, ¿QUÉ DESEAS HACER?</strong></h2>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -87,5 +100,6 @@
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap/bootstrap.min.js"></script>
     <script src="js/light-bootstrap-dashboard.js"></script>
+    <script src="js/custom.js"></script>
   </body>
 </html>
