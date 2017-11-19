@@ -1,0 +1,60 @@
+.main-panel {
+    background: url(../images/header-bg.jpg)  no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-position-x: -65px;
+    min-height: 630px;
+}
+
+.navbar-default {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+.sidebar {
+    box-shadow: 1px 0 20px 3px #000;
+    z-index: 4;
+}
+.content-bg {
+    background-color: #ffffff52;
+    padding: 20px;
+    border-radius: 8px;
+}
+.sidebar .nav li {
+    width: 100%;
+}
+.sidebar .nav li > a {
+    background: #dfb6366b;
+    width: 100%;
+    margin: 0;
+    border-radius: 0;
+    padding: 15px 0;
+    border-bottom: 1px solid #ffffff69;
+}
+.sidebar .nav li.active > a {
+    background: #38383852;
+    width: 100%;
+    margin: 0;
+    border-radius: 0;
+    padding: 15px 0;
+}
+.sidebar .nav p {
+    margin-left: 45px;
+    width: 100%;
+    margin: 0;
+    font-size: 16px;
+    letter-spacing: 3px;
+}
+.navbar-nav {
+    flex-direction: row;
+}
+.navbar-nav .nav-item {
+    margin-right: 35px;
+}
+.navbar-nav .nav-item::last-child {
+    margin-right: 0;
+}
+.submenu{
+    display: none;
+}

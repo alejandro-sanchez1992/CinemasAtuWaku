@@ -1,0 +1,5 @@
+C:\Users\KATERINE\Desktop\slnConexionBD\libParametros\bin\Debug\libParametros.dll
+C:\Users\KATERINE\Desktop\slnConexionBD\libParametros\bin\Debug\libParametros.pdb
+C:\Users\KATERINE\Desktop\slnConexionBD\libParametros\obj\Debug\libParametros.dll
+C:\Users\KATERINE\Desktop\slnConexionBD\libParametros\obj\Debug\libParametros.pdb
+C:\Users\KATERINE\Desktop\slnConexionBD\libParametros\obj\Debug\libParametros.csprojResolveAssemblyReference.cache
