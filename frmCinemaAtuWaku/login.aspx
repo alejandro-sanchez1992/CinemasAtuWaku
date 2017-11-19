@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="AppCinemaAtuWaku.Index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="login.aspx.cs" Inherits="frmCinemaAtuWaku.dashboard" %>
 
 <!DOCTYPE html>
 
@@ -42,9 +42,10 @@
 		<li></li>
 	</ul>
 </div>
-  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-
+ 
+    <script src="js/jquery-3.1.1.min.js"></script>
     <script  src="js/index.js"></script>
+    <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
 </body>

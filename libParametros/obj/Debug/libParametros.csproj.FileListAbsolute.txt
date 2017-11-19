@@ -3,3 +3,7 @@ C:\Users\KATERINE\Desktop\slnConexionBD\libParametros\bin\Debug\libParametros.pd
 C:\Users\KATERINE\Desktop\slnConexionBD\libParametros\obj\Debug\libParametros.dll
 C:\Users\KATERINE\Desktop\slnConexionBD\libParametros\obj\Debug\libParametros.pdb
 C:\Users\KATERINE\Desktop\slnConexionBD\libParametros\obj\Debug\libParametros.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libParametros\bin\Debug\libParametros.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libParametros\bin\Debug\libParametros.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libParametros\obj\Debug\libParametros.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libParametros\obj\Debug\libParametros.pdb

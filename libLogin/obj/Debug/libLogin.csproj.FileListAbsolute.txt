@@ -3,3 +3,7 @@ C:\Users\KATERINE\Desktop\slnCinemaAtuWaku\libLogin\bin\Debug\libLogin.pdb
 C:\Users\KATERINE\Desktop\slnCinemaAtuWaku\libLogin\obj\Debug\libLogin.dll
 C:\Users\KATERINE\Desktop\slnCinemaAtuWaku\libLogin\obj\Debug\libLogin.pdb
 C:\Users\KATERINE\Desktop\slnCinemaAtuWaku\libLogin\obj\Debug\libLogin.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLogin\bin\Debug\libLogin.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLogin\bin\Debug\libLogin.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLogin\obj\Debug\libLogin.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLogin\obj\Debug\libLogin.pdb

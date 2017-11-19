@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarRBList\bin\Debug\libLlenarRBList.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarRBList\bin\Debug\libLlenarRBList.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarRBList\bin\Debug\libConexionBD.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarRBList\bin\Debug\libParametros.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarRBList\bin\Debug\libConexionBD.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarRBList\bin\Debug\libParametros.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarRBList\obj\Debug\libLlenarRBList.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarRBList\obj\Debug\libLlenarRBList.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarRBList\obj\Debug\libLlenarRBList.pdb

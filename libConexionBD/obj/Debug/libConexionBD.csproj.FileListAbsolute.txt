@@ -5,3 +5,10 @@ C:\Users\KATERINE\Desktop\slnConexionBD\libConexionBD\bin\Debug\libParametros.dl
 C:\Users\KATERINE\Desktop\slnConexionBD\libConexionBD\bin\Debug\libParametros.pdb
 C:\Users\KATERINE\Desktop\slnConexionBD\libConexionBD\obj\Debug\libConexionBD.dll
 C:\Users\KATERINE\Desktop\slnConexionBD\libConexionBD\obj\Debug\libConexionBD.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libConexionBD\bin\Debug\libConexionBD.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libConexionBD\bin\Debug\libConexionBD.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libConexionBD\bin\Debug\libParametros.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libConexionBD\bin\Debug\libParametros.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libConexionBD\obj\Debug\libConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libConexionBD\obj\Debug\libConexionBD.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libConexionBD\obj\Debug\libConexionBD.pdb
