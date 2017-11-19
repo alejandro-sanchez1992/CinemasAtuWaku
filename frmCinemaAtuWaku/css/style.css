@@ -110,6 +110,7 @@ form input:focus {
     width: 75%;
     color: #53e3a6;
 }
+form input[type=submit],
 form button {
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -126,6 +127,7 @@ form button {
     -webkit-transition-duration: 0.25s;
     transition-duration: 0.25s;
 }
+form input[type=submit]:hover,
 form button:hover {
     background-color: rgba(245, 247, 249, 0.78);
 }

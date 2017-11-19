@@ -9,6 +9,5 @@ C:\Users\David\Google Drive\ITM\Dllo Software\2017-2\DSI54-8\Fuentes\LibreriasCo
 C:\Users\David\Google Drive\ITM\Dllo Software\2017-2\DSI54-8\Fuentes\LibreriasComunes\slnLlenarCombos\libLlenarCombos\obj\Debug\libLlenarCombos.pdb
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarCombos\bin\Debug\libLlenarCombos.dll
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarCombos\bin\Debug\libLlenarCombos.pdb
-C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarCombos\obj\Debug\libLlenarCombos.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarCombos\obj\Debug\libLlenarCombos.dll
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarCombos\obj\Debug\libLlenarCombos.pdb

@@ -5,8 +5,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" type="text/css" >
-    <link rel="stylesheet" href="css/animate.min.css" type="text/css" >
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/animate.min.css" type="text/css" />
     <link href="css/light-bootstrap-dashboard.css" rel="stylesheet"/>
     <link href="css/font-awesome.min.css" rel="stylesheet"/>
     <link href="css/custom-styles.css" rel="stylesheet"/>
@@ -89,7 +89,7 @@
                         <div class="">
                             <ul class="nav navbar-nav navbar-right float-right">
                                 <li class="nav-item">
-                                   <a href="">
+                                   <a href="#">
                                        <p>Cuenta | Alejandro</p>
                                     </a>
                                 </li>

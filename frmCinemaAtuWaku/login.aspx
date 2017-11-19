@@ -16,10 +16,10 @@
 			<h1>Bienvenido al Sistema</h1>
 			<h2>CINEMAS ATU WAKU</h2>
 			
-			<form class="form">
-				<input type="text" placeholder="Usuario">
-				<input type="password" placeholder="Contraseña">
-				<button type="submit" id="login-button">Entrar</button>
+			<form class="form" method="post" runat="server">
+                <asp:TextBox runat="server" ID="txtUsuario" CssClass="" placeholder="Usuario"/>  
+                <asp:TextBox runat="server" ID="txtPassword" Visible="True" TextMode="Password" placeholder="Contraseña"></asp:TextBox>
+                <asp:Button ID="btnLoginButton" runat="server" Text="Entrar" />
 			</form>
 		</div>
 	</div>
