@@ -7,7 +7,7 @@
                         <div class="row">
                             <div class="col-md-4 offset-8">
                                 <div class="content-bg">
-                                    <h2 class="text-center"><strong>HOLA, ¿QUÉ DESEAS HACER?</strong></h2>
+                                    <h2 class="text-center"><strong>HOLA</strong></h2>
                                 </div>
                             </div>
                         </div>
