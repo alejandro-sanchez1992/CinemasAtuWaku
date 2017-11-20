@@ -10,6 +10,6 @@
 namespace frmCinemaAtuWaku {
     
     
-    public partial class dashboard {
+    public partial class index {
     }
 }
