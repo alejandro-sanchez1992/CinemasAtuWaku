@@ -5,6 +5,18 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmCinemaAtuWaku", "frmCinemaAtuWaku\frmCinemaAtuWaku.csproj", "{96222E24-286B-4A36-8890-4E6EC6B05A17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libConexionBD", "libConexionBD\libConexionBD.csproj", "{83925EE6-19E2-458A-BA7B-2D070C430866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libLogin", "libLogin\libLogin.csproj", "{C243F9C1-2210-4A95-A614-7AAEB5A8AEBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libParametros", "libParametros\libParametros.csproj", "{04274CC5-382E-429D-A2CD-137E91A8453F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libLlenarCombos", "libLlenarCombos\libLlenarCombos.csproj", "{CD7C7EC3-3E62-401D-B0E5-2E9DF28F75FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libLlenarGrids", "libLlenarGrids\libLlenarGrids.csproj", "{0C4C0AF6-554B-4BE7-942A-461558FF1CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libLlenarRBList", "libLlenarRBList\libLlenarRBList.csproj", "{34B2B9D6-1646-405E-A708-DA8985176ABF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +27,30 @@ Global
 		{96222E24-286B-4A36-8890-4E6EC6B05A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96222E24-286B-4A36-8890-4E6EC6B05A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96222E24-286B-4A36-8890-4E6EC6B05A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83925EE6-19E2-458A-BA7B-2D070C430866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83925EE6-19E2-458A-BA7B-2D070C430866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83925EE6-19E2-458A-BA7B-2D070C430866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83925EE6-19E2-458A-BA7B-2D070C430866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C243F9C1-2210-4A95-A614-7AAEB5A8AEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C243F9C1-2210-4A95-A614-7AAEB5A8AEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C243F9C1-2210-4A95-A614-7AAEB5A8AEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C243F9C1-2210-4A95-A614-7AAEB5A8AEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04274CC5-382E-429D-A2CD-137E91A8453F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04274CC5-382E-429D-A2CD-137E91A8453F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04274CC5-382E-429D-A2CD-137E91A8453F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04274CC5-382E-429D-A2CD-137E91A8453F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7C7EC3-3E62-401D-B0E5-2E9DF28F75FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7C7EC3-3E62-401D-B0E5-2E9DF28F75FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7C7EC3-3E62-401D-B0E5-2E9DF28F75FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7C7EC3-3E62-401D-B0E5-2E9DF28F75FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C4C0AF6-554B-4BE7-942A-461558FF1CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4C0AF6-554B-4BE7-942A-461558FF1CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4C0AF6-554B-4BE7-942A-461558FF1CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4C0AF6-554B-4BE7-942A-461558FF1CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34B2B9D6-1646-405E-A708-DA8985176ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B2B9D6-1646-405E-A708-DA8985176ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B2B9D6-1646-405E-A708-DA8985176ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B2B9D6-1646-405E-A708-DA8985176ABF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="AppCinemaAtuWaku.Index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="login.aspx.cs" Inherits="frmCinemaAtuWaku.dashboard" %>
 
 <!DOCTYPE html>
 
@@ -16,10 +16,10 @@
 			<h1>Bienvenido al Sistema</h1>
 			<h2>CINEMAS ATU WAKU</h2>
 			
-			<form class="form">
-				<input type="text" placeholder="Usuario">
-				<input type="password" placeholder="Contraseña">
-				<button type="submit" id="login-button">Entrar</button>
+			<form class="form" method="post" runat="server">
+                <asp:TextBox runat="server" ID="txtUsuario" CssClass="" placeholder="Usuario"/>  
+                <asp:TextBox runat="server" ID="txtPassword" Visible="True" TextMode="Password" placeholder="Contraseña"></asp:TextBox>
+                <asp:Button ID="btnLoginButton" runat="server" Text="Entrar" />
 			</form>
 		</div>
 	</div>
@@ -42,9 +42,10 @@
 		<li></li>
 	</ul>
 </div>
-  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-
+ 
+    <script src="js/jquery-3.1.1.min.js"></script>
     <script  src="js/index.js"></script>
+    <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
 </body>

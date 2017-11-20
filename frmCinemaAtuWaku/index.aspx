@@ -5,9 +5,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" type="text/css" >
-    <link rel="stylesheet" href="css/animate.min.css" type="text/css" >
+    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/animate.min.css" type="text/css" />
     <link href="css/light-bootstrap-dashboard.css" rel="stylesheet"/>
+    <link href="css/font-awesome.min.css" rel="stylesheet"/>
     <link href="css/custom-styles.css" rel="stylesheet"/>
     <title></title>
 </head>
@@ -42,11 +43,33 @@
                             <a href="#">
                                 <p class="text-center">Vendedor</p>
                             </a>
+                            <ul class="nav submenu">
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                            </ul>
                         </li>
                         <li>
                             <a href="#">
                                 <p class="text-center">Vendedor</p>
                             </a>
+                            <ul class="nav submenu">
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                            </ul>
                         </li>
                     </ul>
     	        </div>
@@ -66,7 +89,7 @@
                         <div class="">
                             <ul class="nav navbar-nav navbar-right float-right">
                                 <li class="nav-item">
-                                   <a href="">
+                                   <a href="#">
                                        <p>Cuenta | Alejandro</p>
                                     </a>
                                 </li>
@@ -85,7 +108,7 @@
                 <div class="content">
                     <div class="container-fluid">
                         <div class="row">
-                            <div class="col-md-5 offset-7">
+                            <div class="col-md-4 offset-8">
                                 <div class="content-bg">
                                     <h2 class="text-center"><strong>HOLA, ¿QUÉ DESEAS HACER?</strong></h2>
                                 </div>

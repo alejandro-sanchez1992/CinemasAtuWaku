@@ -25,7 +25,7 @@
     width: 100%;
 }
 .sidebar .nav li > a {
-    background: #dfb6366b;
+    background: #38383852;
     width: 100%;
     margin: 0;
     border-radius: 0;
@@ -38,6 +38,17 @@
     margin: 0;
     border-radius: 0;
     padding: 15px 0;
+}
+.sidebar .nav li > a p:before {
+    font-family: fontawesome;
+    content: "\f054";
+    width: 28px;
+    display: inline-block;
+    vertical-align: top;
+}
+.sidebar .nav li.activa > a p:before {
+    font-family: fontawesome;
+    content: "\f078";
 }
 .sidebar .nav p {
     margin-left: 45px;
@@ -55,6 +66,11 @@
 .navbar-nav .nav-item::last-child {
     margin-right: 0;
 }
-.submenu{
+ul.submenu.nav {
     display: none;
+    margin: 0;
+}
+ul.submenu.nav > li > a {
+    padding-left: 30px;
+    background: #1b4e4ed4;
 }

@@ -1,4 +1,4 @@
- $("#login-button").click(function(event){
+ $("#btnLoginButton").click(function(event){
 		 event.preventDefault();
 	 
 	 $('form').fadeOut(500);

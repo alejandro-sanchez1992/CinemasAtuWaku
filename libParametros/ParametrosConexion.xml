@@ -3,6 +3,6 @@
   <Servidor>localhost</Servidor>
   <BaseDatos>DB_Cinemas_Atu_Waku</BaseDatos>
   <Usuario>sa</Usuario>
-  <clave>1234</clave>
+  <clave>12345</clave>
   <SeguridadIntegrada>NO</SeguridadIntegrada>
 </Parametros>
