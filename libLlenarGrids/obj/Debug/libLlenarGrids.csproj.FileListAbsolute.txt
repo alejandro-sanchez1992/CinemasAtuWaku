@@ -10,3 +10,4 @@ C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenar
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarGrids\bin\Debug\libLlenarGrids.pdb
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarGrids\obj\Debug\libLlenarGrids.dll
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarGrids\obj\Debug\libLlenarGrids.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libLlenarGrids\obj\Debug\libLlenarGrids.csprojResolveAssemblyReference.cache

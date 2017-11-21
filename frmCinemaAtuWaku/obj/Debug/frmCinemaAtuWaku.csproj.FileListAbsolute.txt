@@ -31,3 +31,9 @@ C:\Users\Usuario\documents\visual studio 2015\Projects\slnFormsAtuWaku\frmCinema
 C:\Users\Usuario\documents\visual studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\obj\Debug\frmCinemaAtuWaku.dll
 C:\Users\Usuario\documents\visual studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\obj\Debug\frmCinemaAtuWaku.pdb
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\obj\Debug\frmCinemaAtuWaku.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\bin\libLogin.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\bin\libConexionBD.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\bin\libParametros.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\bin\libLogin.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\bin\libConexionBD.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\bin\libParametros.pdb
