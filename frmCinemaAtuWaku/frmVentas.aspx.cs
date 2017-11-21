@@ -7,22 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace frmCinemaAtuWaku
 {
-    public partial class index : System.Web.UI.Page
+    public partial class frmVentas : System.Web.UI.Page
     {
-        #region Variables Globales
-        
-        #endregion
-
-        #region Metodos Privados
-
-        #endregion
-
-        #region Eventos
         protected void Page_Load(object sender, EventArgs e)
         {
 
         }
-        #endregion
-
     }
 }

@@ -85,6 +85,7 @@ CREATE TABLE TBL_Usuarios
 	id_tipoUsuario int,
 	user_password varchar(20),
 	id_estado int,
+	LastLoginDate datetime,
 	CONSTRAINT PK_Usuario PRIMARY KEY (cedula),
 	CONSTRAINT FK_Tp_Usuarios FOREIGN KEY (id_tipoUsuario) REFERENCES TBL_TipoUsuario (id_TipoUsuario),
 	CONSTRAINT FK_Estado_User FOREIGN KEY (id_estado) REFERENCES TBL_Estados(id_estado)
@@ -145,3 +146,36 @@ Values
 
 
 select * from TBL_Usuarios
+
+CREATE PROCEDURE SP_Login
+      @Username int,
+      @Password NVARCHAR(20)
+AS
+BEGIN
+      SET NOCOUNT ON;
+      DECLARE @UserId INT, @LastLoginDate DATETIME
+     
+      SELECT @UserId = cedula, @LastLoginDate = ultimo_login
+      FROM TBL_Usuarios u INNER JOIN TBL_TipoUsuario t ON
+	  t.id_tipoUsuario = u.id_tipoUsuario
+	  WHERE u.cedula = @Username AND [user_password] = @Password AND u.id_tipoUsuario = 3
+     
+      IF @UserId IS NOT NULL
+      BEGIN
+            IF NOT EXISTS(SELECT cedula FROM TBL_Usuarios WHERE cedula = @UserId)
+            BEGIN
+                  UPDATE TBL_Usuarios
+                  SET ultimo_login = GETDATE()
+                  WHERE cedula = @UserId
+                  SELECT @UserId [cedula] -- User Valid
+            END
+            ELSE
+            BEGIN
+                  SELECT -2 -- User not activated.
+            END
+      END
+      ELSE
+      BEGIN
+            SELECT -1 -- User invalid.
+      END
+END

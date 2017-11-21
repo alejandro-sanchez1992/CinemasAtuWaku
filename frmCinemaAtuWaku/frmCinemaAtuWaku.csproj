@@ -94,12 +94,14 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="frmVentas.aspx" />
     <Content Include="index.aspx" />
     <Content Include="login.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="mdiPrincipal.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -111,6 +113,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmVentas.aspx.cs">
+      <DependentUpon>frmVentas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmVentas.aspx.designer.cs">
+      <DependentUpon>frmVentas.aspx</DependentUpon>
+    </Compile>
     <Compile Include="index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -125,10 +134,23 @@
     <Compile Include="login.aspx.designer.cs">
       <DependentUpon>login.aspx</DependentUpon>
     </Compile>
+    <Compile Include="mdiPrincipal.Master.cs">
+      <DependentUpon>mdiPrincipal.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mdiPrincipal.Master.designer.cs">
+      <DependentUpon>mdiPrincipal.Master</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="fonts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\libLogin\libLogin.csproj">
+      <Project>{c243f9c1-2210-4a95-a614-7aaeb5a8aeba}</Project>
+      <Name>libLogin</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

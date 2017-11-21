@@ -10,7 +10,16 @@
 namespace frmCinemaAtuWaku {
     
     
-    public partial class dashboard {
+    public partial class login {
+        
+        /// <summary>
+        /// Control Login.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlForm Login;
         
         /// <summary>
         /// Control txtUsuario.
@@ -31,12 +40,21 @@ namespace frmCinemaAtuWaku {
         protected global::System.Web.UI.WebControls.TextBox txtPassword;
         
         /// <summary>
-        /// Control loginButton.
+        /// Control btnLoginButton.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button loginButton;
+        protected global::System.Web.UI.WebControls.Button btnLoginButton;
+        
+        /// <summary>
+        /// Control lblMensaje.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblMensaje;
     }
 }

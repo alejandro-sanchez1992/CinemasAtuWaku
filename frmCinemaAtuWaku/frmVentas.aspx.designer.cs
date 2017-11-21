@@ -10,6 +10,6 @@
 namespace frmCinemaAtuWaku {
     
     
-    public partial class index {
+    public partial class frmVentas {
     }
 }
