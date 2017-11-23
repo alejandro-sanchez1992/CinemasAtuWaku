@@ -10,7 +10,7 @@ namespace frmCinemaAtuWaku
     public partial class index : System.Web.UI.Page
     {
         #region Variables Globales
-        
+        static string strTipoUsuario;
         #endregion
 
         #region Metodos Privados
@@ -20,7 +20,16 @@ namespace frmCinemaAtuWaku
         #region Eventos
         protected void Page_Load(object sender, EventArgs e)
         {
+            try
+            {
 
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+            
         }
         #endregion
 

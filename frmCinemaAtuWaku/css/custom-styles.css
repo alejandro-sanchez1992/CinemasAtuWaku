@@ -1,14 +1,6 @@
-.main-panel {
-    background: url(../images/header-bg.jpg)  no-repeat 0px 0px;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
-    background-position-x: -65px;
-    min-height: 630px;
+html {
+    overflow-x: hidden;
 }
-
 .navbar-default {
     background-color: rgba(255, 255, 255, 0.7);
 }

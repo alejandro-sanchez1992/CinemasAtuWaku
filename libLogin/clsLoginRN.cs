@@ -146,7 +146,7 @@ namespace libLogin
                 }
 
                 objReader.Read();
-                strUsuario = objReader.GetString(0);
+                strUsuario = objReader.GetInt32(0).ToString();
                 objReader.Close();
 
                 objConexion = null;

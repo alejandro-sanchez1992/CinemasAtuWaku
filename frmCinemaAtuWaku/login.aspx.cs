@@ -67,8 +67,8 @@ namespace frmCinemaAtuWaku
                     objLogin = null;
                     return;
                 }
-                Session["strTipoUsuario"] = objLogin.Usuario;
-                Response.Redirect("index.aspx", false);
+                Session["Usuario"] = objLogin.Usuario;
+                Response.Redirect("~/index.aspx", false);
                 objLogin = null;
             }
             catch (Exception ex)

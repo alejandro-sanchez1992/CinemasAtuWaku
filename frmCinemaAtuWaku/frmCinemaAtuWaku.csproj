@@ -94,6 +94,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="frmCrearPelicula.aspx" />
+    <Content Include="frmCrearProducto.aspx" />
+    <Content Include="frmCrearSucursal.aspx" />
+    <Content Include="frmCrearUsuario.aspx" />
     <Content Include="frmVentas.aspx" />
     <Content Include="index.aspx" />
     <Content Include="login.aspx" />
@@ -113,6 +117,34 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmCrearPelicula.aspx.cs">
+      <DependentUpon>frmCrearPelicula.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCrearPelicula.aspx.designer.cs">
+      <DependentUpon>frmCrearPelicula.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearProducto.aspx.cs">
+      <DependentUpon>frmCrearProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCrearProducto.aspx.designer.cs">
+      <DependentUpon>frmCrearProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearSucursal.aspx.cs">
+      <DependentUpon>frmCrearSucursal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCrearSucursal.aspx.designer.cs">
+      <DependentUpon>frmCrearSucursal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearUsuario.aspx.cs">
+      <DependentUpon>frmCrearUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCrearUsuario.aspx.designer.cs">
+      <DependentUpon>frmCrearUsuario.aspx</DependentUpon>
+    </Compile>
     <Compile Include="frmVentas.aspx.cs">
       <DependentUpon>frmVentas.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

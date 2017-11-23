@@ -27,11 +27,11 @@
                     <ul class="nav menu">
                         <li class="active">
                             <a href="#">
-                                <p class="text-center">Vendedor</p>
+                                <p class="text-center">Usuarios</p>
                             </a>
                             <ul class="nav submenu">
                                 <li>
-                                    <a href="#">content</a>
+                                    <a href="frmCrearUsuario.aspx">Crear Usuario</a>
                                 </li>
                                 <li>
                                     <a href="#">content</a>
@@ -59,11 +59,59 @@
                         </li>
                         <li>
                             <a href="#">
-                                <p class="text-center">Vendedor</p>
+                                <p class="text-center">Sucursal</p>
                             </a>
                             <ul class="nav submenu">
                                 <li>
+                                    <a href="frmCrearSucursal.aspx">Crear Sucursal</a>
+                                </li>
+                                <li>
                                     <a href="#">content</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <p class="text-center">Peliculas</p>
+                            </a>
+                            <ul class="nav submenu">
+                                <li>
+                                    <a href="frmCrearPelicula.aspx">Crear Pelicula</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <p class="text-center">Productos</p>
+                            </a>
+                            <ul class="nav submenu">
+                                <li>
+                                    <a href="frmCrearProducto.aspx">Crear Producto</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <p class="text-center">Reportes</p>
+                            </a>
+                            <ul class="nav submenu">
+                                <li>
+                                    <a href="#">Crear Producto</a>
                                 </li>
                                 <li>
                                     <a href="#">content</a>

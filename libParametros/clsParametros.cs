@@ -69,7 +69,7 @@ namespace libParametrosCnx
                 }
                 //si no esta vacio o nulo hace instancia al archivo y que lo cargue
 
-                strArchivoXML = "ParametrosConexion.xml";
+                strArchivoXML = AppDomain.CurrentDomain.BaseDirectory + "\\ParametrosConexion.xml";
                 objDoc.Load(strArchivoXML);
 
                 objNodo = objDoc.SelectSingleNode("//Servidor");//selecciona lo que esta dentro del nodo servidor hace referencia a la etiqueta servidos

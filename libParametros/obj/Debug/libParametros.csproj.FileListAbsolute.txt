@@ -7,3 +7,4 @@ C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libParame
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libParametros\bin\Debug\libParametros.pdb
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libParametros\obj\Debug\libParametros.dll
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libParametros\obj\Debug\libParametros.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libParametros\obj\Debug\libParametros.csprojResolveAssemblyReference.cache

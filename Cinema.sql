@@ -101,6 +101,7 @@ create table TBL_detalle_Fact
 	precio float,
 	subtotal float,
 	CONSTRAINT PK_Detalle PRIMARY KEY (id_detalle),
+	CONSTRAINT FK_Factura FOREIGN
 	CONSTRAINT FK_Detalle_Pelic FOREIGN KEY (id_pelicula) REFERENCES TBL_Peliculas(id_pelicula),
 	CONSTRAINT FK_Detalle_Prod FOREIGN KEY (id_prodct) REFERENCES TBL_Producto(id_prodct),
 );
