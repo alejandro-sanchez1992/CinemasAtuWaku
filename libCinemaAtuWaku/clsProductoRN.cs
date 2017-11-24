@@ -10,7 +10,7 @@ using System.Web.UI.WebControls;
 
 namespace libCinemaAtuWaku
 {
-    class clsProductoRN
+    public class clsProductoRN
     {
         #region Contructor
         public clsProductoRN()
@@ -128,9 +128,9 @@ namespace libCinemaAtuWaku
 
         public string Error
         {
-            set
+            get
             {
-                strError = value;
+                return strError;
             }
         }
         #endregion
@@ -221,7 +221,7 @@ namespace libCinemaAtuWaku
         #endregion
 
         #region Metodos Publico
-        public bool InsertarProducto()
+        public bool CrearProducto()
         {
             try
             {

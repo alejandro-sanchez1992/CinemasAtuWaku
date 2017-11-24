@@ -35,7 +35,7 @@ namespace libCinemaAtuWaku
         private string strNombre;
         private string strApellido;
         private string strEmail;
-        private string strDir;
+        private string strDireccion;
         private string strTelefono;
         private int intTipoUsuario;
         private string strPassword;
@@ -101,16 +101,16 @@ namespace libCinemaAtuWaku
             }
         }
 
-        public string Dir
+        public string Direccion
         {
             get
             {
-                return strDir;
+                return strDireccion;
             }
 
             set
             {
-                strDir = value;
+                strDireccion = value;
             }
         }
 
@@ -165,7 +165,7 @@ namespace libCinemaAtuWaku
             }
         }
 
-        public int IntEstado
+        public int Estado
         {
             get
             {
@@ -236,7 +236,7 @@ namespace libCinemaAtuWaku
                         return false;
                     }
 
-                    if (strDir == string.Empty)
+                    if (strDireccion == string.Empty)
                     {
                         strError = "El campo esta vacio, debe ingresar la dirección";
                         return false;
@@ -284,7 +284,7 @@ namespace libCinemaAtuWaku
                         objParamSql[2] = new SqlParameter("@nombre", strNombre);
                         objParamSql[3] = new SqlParameter("@apellido", strApellido);
                         objParamSql[4] = new SqlParameter("@email", strEmail);
-                        objParamSql[5] = new SqlParameter("@direccion", strDir);
+                        objParamSql[5] = new SqlParameter("@direccion", strDireccion);
                         objParamSql[6] = new SqlParameter("@telefono", strTelefono);
                         objParamSql[7] = new SqlParameter("@id_tipoUsuario", intTipoUsuario);
                         objParamSql[8] = new SqlParameter("@user_password", strPassword);
@@ -410,7 +410,7 @@ namespace libCinemaAtuWaku
                 strCedula = objReader.GetString(1);
                 strNombre = objReader.GetString(2);
                 strApellido = objReader.GetString(3);
-                strDir = objReader.GetString(4);
+                strDireccion = objReader.GetString(4);
                 strTelefono = objReader.GetString(5);
                 strEmail = objReader.GetString(6);
                 intTipoUsuario = objReader.GetInt16(7);

@@ -95,7 +95,14 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <asp:Button Text="Enviar Datos" runat="server" cssClass="btn btn-info btn-fill pull-right"/>
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <div class="form-group">
+                                                <asp:Label ID="lblMensaje" runat="server" Visible="false" CssClass="p-2 mb-2 mt-2 bg-info text-white rounded"></asp:Label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <asp:Button ID="btnEnviarUsuario" Text="Enviar Datos" runat="server" cssClass="btn btn-info btn-fill pull-right" OnClick="btnEnviarUsuario_Click" />
                                     <div class="clearfix"></div>
                                 </form>
                             </div>
