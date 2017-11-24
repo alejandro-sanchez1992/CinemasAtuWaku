@@ -66,3 +66,16 @@ ul.submenu.nav > li > a {
     padding-left: 30px;
     background: #1b4e4ed4;
 }
+
+.navbar-default .navbar-nav > li > form > a:not(.btn) {
+    color: #9A9A9A;
+}
+
+.navbar .navbar-nav > li > form > a {
+    padding: 10px 15px;
+    margin: 10px 3px;
+    position: relative;
+}
+.navbar .navbar-nav > li > form > a:hover {
+    color: #1DC7EA;
+}

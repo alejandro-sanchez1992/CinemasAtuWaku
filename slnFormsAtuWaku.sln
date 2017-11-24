@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libLlenarGrids", "libLlenar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libLlenarRBList", "libLlenarRBList\libLlenarRBList.csproj", "{34B2B9D6-1646-405E-A708-DA8985176ABF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libCinemaAtuWaku", "libCinemaAtuWaku\libCinemaAtuWaku.csproj", "{29C9FE8C-2DEE-4B35-B71D-26F171842F59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{34B2B9D6-1646-405E-A708-DA8985176ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34B2B9D6-1646-405E-A708-DA8985176ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34B2B9D6-1646-405E-A708-DA8985176ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C9FE8C-2DEE-4B35-B71D-26F171842F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C9FE8C-2DEE-4B35-B71D-26F171842F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C9FE8C-2DEE-4B35-B71D-26F171842F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C9FE8C-2DEE-4B35-B71D-26F171842F59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

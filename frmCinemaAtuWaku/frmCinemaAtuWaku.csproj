@@ -96,6 +96,7 @@
   <ItemGroup>
     <Content Include="frmCrearPelicula.aspx" />
     <Content Include="frmCrearProducto.aspx" />
+    <Content Include="frmCrearProveedor.aspx" />
     <Content Include="frmCrearSucursal.aspx" />
     <Content Include="frmCrearUsuario.aspx" />
     <Content Include="frmVentas.aspx" />
@@ -130,6 +131,13 @@
     </Compile>
     <Compile Include="frmCrearProducto.aspx.designer.cs">
       <DependentUpon>frmCrearProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearProveedor.aspx.cs">
+      <DependentUpon>frmCrearProveedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCrearProveedor.aspx.designer.cs">
+      <DependentUpon>frmCrearProveedor.aspx</DependentUpon>
     </Compile>
     <Compile Include="frmCrearSucursal.aspx.cs">
       <DependentUpon>frmCrearSucursal.aspx</DependentUpon>
@@ -179,6 +187,10 @@
     <Folder Include="fonts\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\libCinemaAtuWaku\libCinemaAtuWaku.csproj">
+      <Project>{29C9FE8C-2DEE-4B35-B71D-26F171842F59}</Project>
+      <Name>libCinemaAtuWaku</Name>
+    </ProjectReference>
     <ProjectReference Include="..\libLogin\libLogin.csproj">
       <Project>{c243f9c1-2210-4a95-a614-7aaeb5a8aeba}</Project>
       <Name>libLogin</Name>

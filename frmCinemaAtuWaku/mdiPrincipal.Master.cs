@@ -9,6 +9,7 @@ namespace frmCinemaAtuWaku
 {
     public partial class mdiPrincipal : System.Web.UI.MasterPage
     {
+        #region Eventos
         protected void Page_Load(object sender, EventArgs e)
         {
             try
@@ -17,8 +18,8 @@ namespace frmCinemaAtuWaku
                 {
                     if (Session["Usuario"] != null)
                     {
-                        //UserDTO User = ((UserDTO)Session["User"]);
-                        //this.lblUser.Text = string.Format("{0} {1}", User.FirstName, User.LastName);
+                        object UserSession = Session["Usuario"];
+                        this.lblSessionUser.Text = UserSession.ToString();
                     }
                     else
                     {
@@ -32,5 +33,11 @@ namespace frmCinemaAtuWaku
                 throw ex;
             }
         }
+        protected void btnSalir_Click(object sender, EventArgs e)
+        {
+            Session["Usuario"] = null;
+            Response.Redirect("~/login.aspx", false);
+        }
+        #endregion
     }
 }

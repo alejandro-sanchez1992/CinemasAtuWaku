@@ -66,10 +66,10 @@
                                     <a href="frmCrearSucursal.aspx">Crear Sucursal</a>
                                 </li>
                                 <li>
-                                    <a href="#">content</a>
+                                    <a href="#">COntent</a>
                                 </li>
                                 <li>
-                                    <a href="#">content</a>
+                                    <a href="frmCrearCiudad.aspx">Crear Ciudad</a>
                                 </li>
                             </ul>
                         </li>
@@ -96,6 +96,22 @@
                             <ul class="nav submenu">
                                 <li>
                                     <a href="frmCrearProducto.aspx">Crear Producto</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                                <li>
+                                    <a href="#">content</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <p class="text-center">Proveedores</p>
+                            </a>
+                            <ul class="nav submenu">
+                                <li>
+                                    <a href="frmCrearProveedor.aspx">Crear Proveedor</a>
                                 </li>
                                 <li>
                                     <a href="#">content</a>
@@ -140,11 +156,11 @@
                             <ul class="nav navbar-nav navbar-right float-right">
                                 <li class="nav-item">
                                    <a href="#">
-                                       <p>Cuenta | Alejandro</p>
+                                       <p>Cuenta | <asp:Label ID="lblSessionUser" runat="server" /></p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#">
+                                    <a id="btnSalir" href="javascript:btnSalir_Click();">
                                         <p>Salir</p>
                                     </a>
                                 </li>

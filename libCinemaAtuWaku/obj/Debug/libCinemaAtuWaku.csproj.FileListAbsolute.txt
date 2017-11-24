@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\bin\Debug\libCinemaAtuWaku.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\bin\Debug\libCinemaAtuWaku.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\bin\Debug\libConexionBD.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\bin\Debug\libParametros.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\bin\Debug\libConexionBD.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\bin\Debug\libParametros.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\obj\Debug\libCinemaAtuWaku.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\obj\Debug\libCinemaAtuWaku.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\obj\Debug\libCinemaAtuWaku.pdb

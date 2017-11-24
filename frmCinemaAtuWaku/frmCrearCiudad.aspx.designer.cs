@@ -10,33 +10,33 @@
 namespace frmCinemaAtuWaku {
     
     
-    public partial class mdiPrincipal {
+    public partial class frmCrearCiudad {
         
         /// <summary>
-        /// Control head.
+        /// Control txtNomCiudad.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder head;
+        protected global::System.Web.UI.WebControls.TextBox txtNomCiudad;
         
         /// <summary>
-        /// Control lblSessionUser.
+        /// Control txtUbicacion.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblSessionUser;
+        protected global::System.Web.UI.WebControls.TextBox txtUbicacion;
         
         /// <summary>
-        /// Control ContentPlaceHolder1.
+        /// Control ddlEstadoCiu.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder ContentPlaceHolder1;
+        protected global::System.Web.UI.WebControls.DropDownList ddlEstadoCiu;
     }
 }
