@@ -32,6 +32,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -40,13 +41,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clsCiudadRN.cs" />
+    <Compile Include="clsProductoRN.cs" />
     <Compile Include="clsProveedorRN.cs" />
+    <Compile Include="clsSucursalRN.cs" />
+    <Compile Include="clsUsuariosRN.cs" />
+    <Compile Include="cslPeliculaRN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\libConexionBD\libConexionBD.csproj">
       <Project>{83925EE6-19E2-458A-BA7B-2D070C430866}</Project>
       <Name>libConexionBD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\libLlenarCombos\libLlenarCombos.csproj">
+      <Project>{cd7c7ec3-3e62-401d-b0e5-2e9df28f75fb}</Project>
+      <Name>libLlenarCombos</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

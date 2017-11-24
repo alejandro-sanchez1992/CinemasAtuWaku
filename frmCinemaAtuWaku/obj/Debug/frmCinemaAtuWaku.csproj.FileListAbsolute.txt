@@ -39,3 +39,5 @@ C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinema
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\bin\libParametros.pdb
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\bin\libCinemaAtuWaku.dll
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\bin\libCinemaAtuWaku.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\bin\libLlenarCombos.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\frmCinemaAtuWaku\bin\libLlenarCombos.pdb

@@ -7,3 +7,5 @@ C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinema
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\obj\Debug\libCinemaAtuWaku.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\obj\Debug\libCinemaAtuWaku.dll
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\obj\Debug\libCinemaAtuWaku.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\bin\Debug\libLlenarCombos.dll
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\slnFormsAtuWaku\libCinemaAtuWaku\bin\Debug\libLlenarCombos.pdb
